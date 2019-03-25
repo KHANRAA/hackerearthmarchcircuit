@@ -95,7 +95,7 @@ int main()
                 //cout<<q.front()<<" ";
                 count1++;
                 q.pop();
- 
+
             }
         }
     }

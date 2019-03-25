@@ -3,4 +3,4 @@ project(hackerearthmarchcircuit)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(hackerearthmarchcircuit   "google kickstart.cpp")
+add_executable(hackerearthmarchcircuit  q4.cpp)
